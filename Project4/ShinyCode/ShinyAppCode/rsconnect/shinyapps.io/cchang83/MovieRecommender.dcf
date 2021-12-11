@@ -1,0 +1,13 @@
+name: MovieRecommender
+title: MovieRecommender
+username:
+account: cchang83
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5311283
+bundleId: 5360346
+url: https://cchang83.shinyapps.io/MovieRecommender/
+when: 1639252998.92186
+lastSyncTime: 1639252998.92186
+asMultiple: FALSE
+asStatic: FALSE
